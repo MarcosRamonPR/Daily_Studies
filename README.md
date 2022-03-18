@@ -1,2 +1,3 @@
-# Daily_Studies
-DAY-TO-DAY
+# Daily_Studies 🧐
+## DAY-TO-DAY 📖
+###### JQuery and Django ®️
